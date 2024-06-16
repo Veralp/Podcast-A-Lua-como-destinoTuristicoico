@@ -18,7 +18,7 @@ Neste podcast, exploramos a fascinante possibilidade de turismo lunar. Discutimo
 - E outros agregadores de podcasts
 
 ## Contribua 💡
-Quer contribuir para o podcast? Envie suas perguntas e sugestões para [email](mailto:veradcj.fl@hotmail.com).
+Quer contribuir para o podcast? Envie suas perguntas e sugestões para veradcj.fl@hotmail.com).
 
 ## Agradecimentos Especiais 👏
 Este podcast foi possível graças à inteligência artificial! Utilizamos as seguintes IAs:
